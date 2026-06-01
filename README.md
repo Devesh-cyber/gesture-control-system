@@ -104,4 +104,4 @@ CLICK_COOLDOWN_MS      = 350    # Min time between clicks
 
 **Devesh Kadam** — BCA Student, Mulund College of Commerce, Mumbai
 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) • [GitHub](https://github.com/Devesh-cyber)
+[LinkedIn](www.linkedin.com/in/deveshk06) • [GitHub](https://github.com/Devesh-cyber)
